@@ -20,7 +20,6 @@ This project showcases my skills, projects, internships, certifications, and edu
 - **Projects**
 - **Experience**
 - **Internships**
-- **Certificates**
-- **Courses**
+- **Courses and Certificates**
 - **Education**
 - **Contact Information**
